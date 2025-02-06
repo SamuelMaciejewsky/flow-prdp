@@ -520,7 +520,7 @@
         <mxCell id="9St8br5qQbNa6a5Blep3-168" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CONTINUAÇÃO&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;DO ANEL&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1790" y="1864" width="120" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="sMfygN38w_9NX7xRdAiJ-1" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;REDE METROBEL - ANEL 1&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="sMfygN38w_9NX7xRdAiJ-1" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;REDE METROBEL - ANEL 1&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1720" y="960" width="500" height="150" as="geometry" />
         </mxCell>
       </root>
