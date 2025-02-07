@@ -248,10 +248,10 @@
           <mxGeometry x="3764" y="1632" width="128" height="224" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-75" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;gradientColor=#E0E0E0;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="1505" width="96" height="47.53" as="geometry" />
+          <mxGeometry x="3556" y="1472.85" width="96" height="47.53" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-76" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;INFRAERO&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;10.99.15.175&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="3508" y="1561" width="120" height="64" as="geometry" />
+          <mxGeometry x="3544" y="1528.85" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-77" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;gradientColor=#E0E0E0;" parent="1" vertex="1">
           <mxGeometry x="3780" y="1344.38" width="96" height="47.53" as="geometry" />
