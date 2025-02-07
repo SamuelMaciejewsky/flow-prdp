@@ -338,10 +338,10 @@
           <mxGeometry x="3532" y="1275.89" width="88" height="47.15" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-105" value="" style="shape=mxgraph.cisco.wireless.radio_tower;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#E0E0E0;strokeColor=#585959;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3493.5" y="1313.3399999999995" width="37" height="101" as="geometry" />
+          <mxGeometry x="3501.5" y="1323.0399999999995" width="37" height="101" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-106" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;CLUSTER CDP&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;10.101.51.5&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="3468" y="1424.4899999999993" width="88" height="47.15" as="geometry" />
+          <mxGeometry x="3476" y="1434.1899999999994" width="88" height="47.15" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-107" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;gradientColor=#E0E0E0;" parent="1" vertex="1">
           <mxGeometry x="3208" y="1423.51" width="64" height="31.68" as="geometry" />
@@ -461,10 +461,10 @@
           <mxGeometry x="2556" y="1441.2300000000002" width="88" height="47.15" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-146" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;gradientColor=#E0E0E0;" parent="1" vertex="1">
-          <mxGeometry x="2328" y="1370.1900000000003" width="64" height="31.68" as="geometry" />
+          <mxGeometry x="2324" y="1361.7600000000002" width="64" height="31.68" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-147" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SESPA URE REDUTO&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;10.99.16.199&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2316" y="1410.1900000000003" width="88" height="47.15" as="geometry" />
+          <mxGeometry x="2312" y="1401.7600000000002" width="88" height="47.15" as="geometry" />
         </mxCell>
         <mxCell id="9St8br5qQbNa6a5Blep3-148" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;gradientColor=#E0E0E0;" parent="1" vertex="1">
           <mxGeometry x="2412" y="1273.4400000000003" width="64" height="31.68" as="geometry" />
